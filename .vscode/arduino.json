@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodemFD121",
+    "sketch": "sketch_rgb_leds.ino"
+}
